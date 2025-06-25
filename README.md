@@ -1,4 +1,3 @@
-# projet-gestion-absences
 # 🧠 Projet de gestion des absences - Data & API
 
 Ce projet propose une solution de détection d’anomalies dans les absences étudiantes à l’aide du **Machine Learning**, d’une **API Flask** et de **dashboards Power BI**.
